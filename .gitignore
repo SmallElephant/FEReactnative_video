@@ -61,5 +61,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+.idea
 ReactNativeVideo/ReactNativeVideo/node_modules/
 ReactNativeVideo/ReactNativeVideo/ios/ReactNativeVideo/Pods
